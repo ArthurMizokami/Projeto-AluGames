@@ -38,7 +38,7 @@ class ConsumoApi {
     }
 
     fun buscarJogosJson(): List<Jogo> {
-        val endereco = "https://raw.githubusercontent.com/ArthurMizokami/Projeto-AluGames/refs/heads/main/src/gamers.json"
+        val endereco = "https://raw.githubusercontent.com/ArthurMizokami/Projeto-AluGames/refs/heads/main/src/main/kotlin/br/com/alura/alugames/Json/jogos.json"
         val json = consomeDados(endereco)
 
         val gson = Gson()
@@ -52,7 +52,7 @@ class ConsumoApi {
 
     fun buscaGamers(): List<Gamer> {
         val endereco =
-            "https://raw.githubusercontent.com/ArthurMizokami/Projeto-AluGames/refs/heads/main/src/gamers.json"
+            "https://raw.githubusercontent.com/ArthurMizokami/Projeto-AluGames/refs/heads/main/src/main/kotlin/br/com/alura/alugames/Json/gamers.json"
 
         val json = consomeDados(endereco)
 

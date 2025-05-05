@@ -1,72 +1,62 @@
 [
   {
-    "id": "1",
     "titulo": "The Witcher 3: Wild Hunt",
-    "genero": "RPG",
-    "plataforma": "PC, PS4, Xbox One",
-    "anoLancamento": 2015
+    "capa": "https://example.com/capas/witcher3.jpg",
+    "descricao": "Um RPG de ação em mundo aberto com uma narrativa rica.",
+    "preco": 199.99
   },
   {
-    "id": "2",
     "titulo": "God of War",
-    "genero": "Ação/Aventura",
-    "plataforma": "PS4",
-    "anoLancamento": 2018
+    "capa": "https://example.com/capas/godofwar.jpg",
+    "descricao": "Uma aventura épica com Kratos e seu filho Atreus.",
+    "preco": 249.99
   },
   {
-    "id": "3",
     "titulo": "Halo Infinite",
-    "genero": "Tiro em primeira pessoa",
-    "plataforma": "Xbox, PC",
-    "anoLancamento": 2021
+    "capa": "https://example.com/capas/haloinfinite.jpg",
+    "descricao": "O retorno do Master Chief em uma nova saga.",
+    "preco": 199.99
   },
   {
-    "id": "4",
     "titulo": "Minecraft",
-    "genero": "Sandbox, Aventura",
-    "plataforma": "PC, PS4, Xbox One, Nintendo Switch",
-    "anoLancamento": 2011
+    "capa": "https://example.com/capas/minecraft.jpg",
+    "descricao": "Um jogo de construção e sobrevivência em um mundo de blocos.",
+    "preco": 89.99
   },
   {
-    "id": "5",
     "titulo": "The Legend of Zelda: Breath of the Wild",
-    "genero": "Aventura, Ação",
-    "plataforma": "Nintendo Switch",
-    "anoLancamento": 2017
+    "capa": "https://example.com/capas/zelda.jpg",
+    "descricao": "Uma aventura em um vasto mundo aberto com Link.",
+    "preco": 299.99
   },
   {
-    "id": "6",
     "titulo": "Fortnite",
-    "genero": "Battle Royale",
-    "plataforma": "PC, PS4, Xbox One, Nintendo Switch, Mobile",
-    "anoLancamento": 2017
+    "capa": "https://example.com/capas/fortnite.jpg",
+    "descricao": "Um jogo de batalha real com construção e combate.",
+    "preco": 0.00
   },
   {
-    "id": "7",
     "titulo": "Red Dead Redemption 2",
-    "genero": "Ação/Aventura",
-    "plataforma": "PC, PS4, Xbox One",
-    "anoLancamento": 2018
+    "capa": "https://example.com/capas/rdr2.jpg",
+    "descricao": "Uma história de crime e sobrevivência no Velho Oeste.",
+    "preco": 249.99
   },
   {
-    "id": "8",
     "titulo": "Overwatch",
-    "genero": "Tiro em primeira pessoa, Multiplayer",
-    "plataforma": "PC, PS4, Xbox One, Nintendo Switch",
-    "anoLancamento": 2016
+    "capa": "https://example.com/capas/overwatch.jpg",
+    "descricao": "Um jogo de tiro em equipe com heróis únicos.",
+    "preco": 199.99
   },
   {
-    "id": "9",
     "titulo": "Assassin's Creed Valhalla",
-    "genero": "Ação/Aventura, RPG",
-    "plataforma": "PC, PS4, PS5, Xbox One, Xbox Series X/S",
-    "anoLancamento": 2020
+    "capa": "https://example.com/capas/acvalhalla.jpg",
+    "descricao": "Uma jornada viking em busca de novas terras.",
+    "preco": 249.99
   },
   {
-    "id": "10",
     "titulo": "Cyberpunk 2077",
-    "genero": "RPG, Ação",
-    "plataforma": "PC, PS4, PS5, Xbox One, Xbox Series X/S",
-    "anoLancamento": 2020
+    "capa": "https://example.com/capas/cyberpunk2077.jpg",
+    "descricao": "Um RPG de mundo aberto ambientado em uma metrópole futurista.",
+    "preco": 199.99
   }
 ]

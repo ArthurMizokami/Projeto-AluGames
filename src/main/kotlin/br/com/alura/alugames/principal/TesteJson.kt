@@ -9,7 +9,7 @@ fun main() {
 
     println(listaGamers)
 
-    val gamer1 = listaGamers.get(1)
+    val gamer1 = listaGamers.get(0)
     val jogo1 = listaJogoJson.get(1)
 
     println(gamer1)
