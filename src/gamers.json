@@ -1,0 +1,14 @@
+[
+  {
+    "nome": "João",
+    "email": "joao@example.com",
+    "dataNascimento": "1990-01-01",
+    "usuario": "joaodasilva"
+  },
+  {
+    "nome": "Maria",
+    "email": "maria@example.com",
+    "dataNascimento": "1995-05-05",
+    "usuario": "mariadantas"
+  }
+]
