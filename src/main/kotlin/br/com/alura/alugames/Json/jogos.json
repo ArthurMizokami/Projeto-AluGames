@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "titulo": "The Witcher 3: Wild Hunt",
+    "genero": "RPG",
+    "plataforma": "PC, PS4, Xbox One",
+    "anoLancamento": 2015
+  },
+  {
+    "id": "2",
+    "titulo": "God of War",
+    "genero": "Ação/Aventura",
+    "plataforma": "PS4",
+    "anoLancamento": 2018
+  },
+  {
+    "id": "3",
+    "titulo": "Halo Infinite",
+    "genero": "Tiro em primeira pessoa",
+    "plataforma": "Xbox, PC",
+    "anoLancamento": 2021
+  },
+  {
+    "id": "4",
+    "titulo": "Minecraft",
+    "genero": "Sandbox, Aventura",
+    "plataforma": "PC, PS4, Xbox One, Nintendo Switch",
+    "anoLancamento": 2011
+  },
+  {
+    "id": "5",
+    "titulo": "The Legend of Zelda: Breath of the Wild",
+    "genero": "Aventura, Ação",
+    "plataforma": "Nintendo Switch",
+    "anoLancamento": 2017
+  },
+  {
+    "id": "6",
+    "titulo": "Fortnite",
+    "genero": "Battle Royale",
+    "plataforma": "PC, PS4, Xbox One, Nintendo Switch, Mobile",
+    "anoLancamento": 2017
+  },
+  {
+    "id": "7",
+    "titulo": "Red Dead Redemption 2",
+    "genero": "Ação/Aventura",
+    "plataforma": "PC, PS4, Xbox One",
+    "anoLancamento": 2018
+  },
+  {
+    "id": "8",
+    "titulo": "Overwatch",
+    "genero": "Tiro em primeira pessoa, Multiplayer",
+    "plataforma": "PC, PS4, Xbox One, Nintendo Switch",
+    "anoLancamento": 2016
+  },
+  {
+    "id": "9",
+    "titulo": "Assassin's Creed Valhalla",
+    "genero": "Ação/Aventura, RPG",
+    "plataforma": "PC, PS4, PS5, Xbox One, Xbox Series X/S",
+    "anoLancamento": 2020
+  },
+  {
+    "id": "10",
+    "titulo": "Cyberpunk 2077",
+    "genero": "RPG, Ação",
+    "plataforma": "PC, PS4, PS5, Xbox One, Xbox Series X/S",
+    "anoLancamento": 2020
+  }
+]
