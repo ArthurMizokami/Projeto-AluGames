@@ -3,60 +3,60 @@
     "titulo": "The Witcher 3: Wild Hunt",
     "capa": "https://example.com/capas/witcher3.jpg",
     "descricao": "Um RPG de ação em mundo aberto com uma narrativa rica.",
-    "preco": 199.99
+    "preco": 9.99
   },
   {
     "titulo": "God of War",
     "capa": "https://example.com/capas/godofwar.jpg",
     "descricao": "Uma aventura épica com Kratos e seu filho Atreus.",
-    "preco": 249.99
+    "preco": 9.99
   },
   {
     "titulo": "Halo Infinite",
     "capa": "https://example.com/capas/haloinfinite.jpg",
     "descricao": "O retorno do Master Chief em uma nova saga.",
-    "preco": 199.99
+    "preco": 9.99
   },
   {
     "titulo": "Minecraft",
     "capa": "https://example.com/capas/minecraft.jpg",
     "descricao": "Um jogo de construção e sobrevivência em um mundo de blocos.",
-    "preco": 89.99
+    "preco": 2.99
   },
   {
     "titulo": "The Legend of Zelda: Breath of the Wild",
     "capa": "https://example.com/capas/zelda.jpg",
     "descricao": "Uma aventura em um vasto mundo aberto com Link.",
-    "preco": 299.99
+    "preco": 12.99
   },
   {
     "titulo": "Fortnite",
     "capa": "https://example.com/capas/fortnite.jpg",
     "descricao": "Um jogo de batalha real com construção e combate.",
-    "preco": 0.00
+    "preco": 1.00
   },
   {
     "titulo": "Red Dead Redemption 2",
     "capa": "https://example.com/capas/rdr2.jpg",
     "descricao": "Uma história de crime e sobrevivência no Velho Oeste.",
-    "preco": 249.99
+    "preco": 14.99
   },
   {
     "titulo": "Overwatch",
     "capa": "https://example.com/capas/overwatch.jpg",
     "descricao": "Um jogo de tiro em equipe com heróis únicos.",
-    "preco": 199.99
+    "preco": 8.99
   },
   {
     "titulo": "Assassin's Creed Valhalla",
     "capa": "https://example.com/capas/acvalhalla.jpg",
     "descricao": "Uma jornada viking em busca de novas terras.",
-    "preco": 249.99
+    "preco": 9.99
   },
   {
     "titulo": "Cyberpunk 2077",
     "capa": "https://example.com/capas/cyberpunk2077.jpg",
     "descricao": "Um RPG de mundo aberto ambientado em uma metrópole futurista.",
-    "preco": 199.99
+    "preco": 7.99
   }
 ]
