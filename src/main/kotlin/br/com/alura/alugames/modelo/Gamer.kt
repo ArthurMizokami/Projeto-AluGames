@@ -3,7 +3,9 @@ package br.com.alura.alugames.modelo
 import java.util.Scanner
 import kotlin.random.Random
 
-data class Gamer(var nome:String, var email:String): Recomendavel {
+data class Gamer(
+    var nome:String,
+    var email:String): Recomendavel {
     var dataNascimento:String? = null
     var usuario:String? = null
         set(value) {

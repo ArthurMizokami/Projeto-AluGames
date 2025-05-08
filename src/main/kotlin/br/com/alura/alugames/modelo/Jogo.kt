@@ -2,6 +2,12 @@ package br.com.alura.alugames.modelo
 
 import com.google.gson.annotations.Expose
 import java.math.BigDecimal
+import javax.persistence.Entity
+import javax.persistence.GeneratedValue
+import javax.persistence.GenerationType
+import javax.persistence.Id
+import javax.persistence.Table
+
 
 
 data class Jogo(
@@ -12,10 +18,11 @@ data class Jogo(
     @Expose var id: Int? = null
 ): Recomendavel {
 
-    constructor(titulo: String, capa: String, preco: BigDecimal, descricao: String):
+    constructor(titulo: String, capa: String, preco: BigDecimal, descricao: String, id: Int = 0):
             this(titulo, capa) {
                 this.preco = preco
-        this.descricao = descricao
+                this.descricao = descricao
+                this.id = id
             }
 
     override fun toString(): String {
@@ -25,7 +32,8 @@ data class Jogo(
                 "Descricao: $descricao\n" +
                 "Preço: $preco\n" +
                 "Reputação: $media\n" +
-                "Id: $id"
+                "Id: $id\n" +
+                "------------\n"
 
     }
 
