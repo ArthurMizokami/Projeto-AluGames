@@ -21,6 +21,7 @@ data class Gamer(
     var jogosAlugados = mutableListOf<Aluguel>()
     private val listaNotas = mutableListOf<Int>()
     val jogosRecomendados = mutableListOf<Jogo>()
+    var id: Int = 0
 
     override val media: Double
         get() = listaNotas.average()
@@ -42,12 +43,12 @@ data class Gamer(
         }
     }
 
-    constructor(nome: String, email: String, dataNascimento:String, usuario:String,):
+    constructor(nome: String, email: String, dataNascimento:String?, usuario:String?, id: Int = 0):
             this(nome, email) {
-                this.dataNascimento = dataNascimento
-                this.usuario = usuario
-                criarIdInterno()
-
+        this.dataNascimento = dataNascimento
+        this.usuario = usuario
+        this.id = id
+        criarIdInterno()
     }
 
     init {

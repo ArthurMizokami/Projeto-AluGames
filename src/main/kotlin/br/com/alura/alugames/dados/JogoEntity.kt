@@ -15,5 +15,5 @@ class JogoEntity(
     val descricao: String? = null,
     val preco: BigDecimal = BigDecimal(0),
     @Id @GeneratedValue(strategy = GenerationType.IDENTITY)
-    val id: Int = 0) {
+    val id: Int? = 0) {
 }
