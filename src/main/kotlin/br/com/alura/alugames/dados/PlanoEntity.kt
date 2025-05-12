@@ -1,4 +1,5 @@
 package br.com.alura.alugames.dados
+import java.math.BigDecimal
 import javax.persistence.DiscriminatorColumn
 import javax.persistence.DiscriminatorType
 import javax.persistence.DiscriminatorValue
@@ -28,9 +29,9 @@ sealed class PlanoEntity(
     @DiscriminatorValue("Assinatura")
     class PlanoAssinaturaEntity(
         tipo: String = "Plano Assinatura",
-        val mensalidade: Double = 0.0,
+        val mensalidade: BigDecimal = BigDecimal(0.0),
         val jogosIncluidos: Int = 0,
-        val percentualDescontoReputacao: Double = 0.0,
+        val percentualDescontoReputacao: BigDecimal = BigDecimal(0.0),
         id: Int = 0
     ): PlanoEntity(tipo, id)
 
